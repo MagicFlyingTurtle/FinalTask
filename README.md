@@ -1,1 +1,1 @@
-# FinalTask
+    *To run server with report 'allure serve target/allure-results'
